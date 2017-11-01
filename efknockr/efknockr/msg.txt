@@ -1,0 +1,8 @@
+EFKnockr script developed by acidvegas
+███████╗███████╗██╗  ██╗
+██╔════╝██╔════╝██║ ██╔╝
+█████╗  █████╗  █████╔╝
+██╔══╝  ██╔══╝  ██╔═██╗
+███████╗██║     ██║  ██╗
+╚══════╝╚═╝     ╚═╝  ╚═╝
+https://github.com/acidvegas/trollbots
